@@ -53217,7 +53217,7 @@ i=A.PV(0,new A.dB(B.al,k,k,A.b7(k,k,k,A.bV(k,k,k,A.E(a).ay.cx,k,k,B.am),50,k,k,5
 s=A.bx(100)
 r=!b
 q=t.p
-s=A.el(A.fz(B.ak,A.a([i,A.PV(0,new A.dB(B.al,k,k,A.b7(k,A.a2f(s,r?A.N0("assets/myur_dark.jpg"):A.N0("assets/myur_light.jpg")),k,B.hg,46,k,k,46),k))],q),B.av),50,50)
+s=A.el(A.fz(B.ak,A.a([i,A.PV(0,new A.dB(B.al,k,k,A.b7(k,A.a2f(s,r?A.N0("assets/assets/myur_dark.jpg"):A.N0("assets/assets/myur_light.jpg")),k,B.hg,46,k,k,46),k))],q),B.av),50,50)
 i=A.E(a).p3.y
 i=A.bi("M'yur",A.b0(k,k,i==null?k:i.b,k,k,k,k,k,k,k,k,30,k,k,B.r,k,k,!0,k,k,k,k,k,k,k,k))
 p=this.a
@@ -53271,7 +53271,7 @@ f=A.PV(0,new A.dB(B.al,i,i,A.b7(i,i,i,A.bV(i,i,i,A.E(a).ay.cx,i,i,B.am),65,i,i,6
 h=A.bx(100)
 s=!b
 r=t.p
-h=A.el(A.fz(B.ak,A.a([f,A.PV(0,new A.dB(B.al,i,i,A.b7(i,A.a2f(h,s?A.N0("assets/myur_dark.jpg"):A.N0("assets/myur_light.jpg")),i,B.hg,60,i,i,60),i))],r),B.av),65,65)
+h=A.el(A.fz(B.ak,A.a([f,A.PV(0,new A.dB(B.al,i,i,A.b7(i,A.a2f(h,s?A.N0("assets/assets/myur_dark.jpg"):A.N0("assets/assets/myur_light.jpg")),i,B.hg,60,i,i,60),i))],r),B.av),65,65)
 f=this.a
 if(f.d===0){q=A.bx(10)
 p=A.E(a)
